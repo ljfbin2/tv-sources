@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视",CCTV-1 综合
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="央视",CCTV-2 财经
+http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="央视",CCTV-9 纪录
+https://xykt-fix.github.io/Y77.m3u8
+#EXTINF:-1 group-title="央视",CCTV-13 新闻
+http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="地方频道",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+#EXTINF:-1 group-title="地方频道",浙江新闻
+http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
+#EXTINF:-1 group-title="台湾新闻",TVBS 新闻
+https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+#EXTINF:-1 group-title="台湾新闻",东森新闻
+https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+#EXTINF:-1 group-title="台湾新闻",三立新闻
+https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+#EXTINF:-1 group-title="海外频道",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="海外频道",NHK World
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
